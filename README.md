@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Projects that have real life problem solving usecases.
 - 📫 How to reach me ...Through my socials --> @vidhaankhare on instagram and Vidhaan Khare on LinkedIN
 - 😄 Pronouns: ... He/him
-- ⚡ Fun fact: ... My favourite hobby is playing music , having guitar certifications from Trinity college of London.
+- ⚡ Fun fact: ... My favourite hobby is playing music , I have multiple guitar certifications from Trinity college of London.
 
 <!---
 Vidhaankhare16/Vidhaankhare16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
