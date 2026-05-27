@@ -1,120 +1,204 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:1E293B&height=220&section=header&text=Vidhaan%20Khare&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,12,20&text=Vidhaan%20Khare&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 
-# AI Engineer • Open Source Contributor • Hackathon Winner
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+Engineer;Smart+India+Hackathon+2025+Winner;Building+Multi-Agent+Systems;Open+Source+Contributor;Turning+Ideas+Into+Products" />
 
-Building AI systems that solve real-world problems using Multi-Agent Architectures, LLMs, RAG, and Cloud Infrastructure.
+<p>
+<a href="https://www.linkedin.com/in/vidhaan-khare">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vidhaan-khare)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Vidhaankhare16)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vidhankhare16@gmail.com)
+<a href="mailto:vidhankhare16@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vidhaankhare16">
+<img src="https://img.shields.io/github/followers/Vidhaankhare16?label=Followers&style=for-the-badge"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 👋 Hey, I'm Vidhaan
 
 I'm an AI Engineer and Computer Engineering undergraduate at **Thapar Institute of Engineering & Technology**.
 
-My focus is building production-ready AI systems rather than isolated models:
+I enjoy building systems where AI moves beyond demos and creates measurable impact.
 
-- Multi-Agent AI Applications
-- Retrieval-Augmented Generation (RAG)
-- LLM Evaluation & Tooling
-- Agentic Workflows
-- AI Security
-- Cloud-Native AI Deployment
+### What I care about
 
-I enjoy working on projects where AI directly improves how people work, learn, or make decisions.
+🤖 Multi-Agent Systems
 
-Outside technology, I am a guitarist certified by **Trinity College London** and currently serve as **Vice-President of SUR-TIET (Music Society)**.
+🧠 Large Language Models
 
----
+🔍 Retrieval-Augmented Generation (RAG)
 
-## Current Focus
+☁️ Cloud-Native AI Deployment
 
-- Building reliable Multi-Agent Systems
-- AI Security & Evaluation
-- Agentic Applications with Google ADK & LangGraph
-- Open Source Contributions
-- Production AI on GCP
+🔐 AI Security & Evaluation
+
+🌱 Open Source
 
 ---
 
-## Tech Stack
+## 🏆 Highlights
+
+🥇 National Winner — Smart India Hackathon 2025
+
+🌍 International Winner — Ulster University Agentic AI Hackathon
+
+🚀 National Finalist — Google Cloud Agentic AI Day (Top 75 / 9100+ Teams)
+
+🏅 Innovation Award — Microsoft Learn AI Skills Challenge
+
+🔓 Open Source Contributor in the PyTorch & R ecosystem
+
+🎸 Trinity College of London Guitar Certifications
+
+🎵 Vice-President, SUR-TIET Music Society
+
+---
+
+## ⚡ Currently Building
+
+### LegalEase
+Multi-Agent Legal Intelligence Platform that analyzes contracts, scores risk, and provides actionable insights using Gemini and Google Cloud.
+
+### Developer Identity Engine
+AI-powered GitHub intelligence system that evaluates engineering patterns, collaboration, growth trajectory, and role fit.
+
+### VibeGuard
+Security auditing CLI designed specifically for AI-generated applications, detecting prompt injection, credential leaks, supply-chain risks, and more.
+
+### Open Source
+Contributing to tooling and libraries across the PyTorch and R ecosystems.
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,mysql"/>
+</p>
 
 ### AI & Machine Learning
 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge)
 
 ### Cloud & Backend
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,nodejs,fastapi,firebase,flask"/>
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
 
 ---
 
-## Featured Projects
+## 📊 A Few Numbers
 
-### LegalEase
-AI-powered legal intelligence platform built on Google Cloud.
-
-**Highlights**
-- Multi-agent contract analysis pipeline
-- Automated legal risk scoring
-- Contract Q&A system
-- WhatsApp + Web delivery
-- Vertex AI + Cloud Run deployment
-
----
-
-### Developer Identity Engine
-
-Multi-agent GitHub intelligence platform.
-
-**Highlights**
-- Developer archetype classification
-- Growth trajectory prediction
-- Role-fit evaluation engine
-- Parallel AI agent architecture
-- Real-time streaming analysis
+```text
+🏆 3 Major Hackathon Wins
+🤖 Multiple AI Systems Deployed
+☁️ Production Deployments on Google Cloud
+🔓 Open Source Contributions
+🎸 8+ Years Playing Guitar
+🚀 Countless Hours Debugging Agent Workflows
+```
 
 ---
 
-### VibeGuard
+## 📈 GitHub Analytics
 
-Security auditing CLI for AI-generated applications.
+<div align="center">
 
-**Highlights**
-- AI-specific vulnerability detection
-- Prompt injection analysis
-- Supply chain risk scanning
-- Credential leak verification
-- Severity-based remediation reports
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vidhaankhare16&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-```bash
-npx @vidhaankhare/vibeguard scan .
+<img height="170em" src="https://streak-stats.demolab.com?user=Vidhaankhare16&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhaankhare16&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Vidhaankhare16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vidhaankhare16/Vidhaankhare16/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+- AI Engineering
+- Agentic Systems
+- Open Source
+- Startups
+- Hackathons
+- Interesting Problems
+
+<p align="center">
+<a href="mailto:vidhankhare16@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/vidhaan-khare">LinkedIn</a> •
+<a href="https://github.com/Vidhaankhare16">GitHub</a>
+</p>
+
+---
+
+<div align="center">
+
+### "Build things that solve real problems."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=20,12,6"/>
