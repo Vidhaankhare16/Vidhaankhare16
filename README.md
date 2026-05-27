@@ -1,83 +1,94 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,12,20&text=Vidhaan%20Khare&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+# Vidhaan Khare
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+Engineer;Building+Multi-Agent+Systems;Open+Source+Contributor" />
+**AI Engineer** · Building multi-agent systems that ship to production
 
-<br>
-
-<a href="https://www.linkedin.com/in/vidhaan-khare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vidhankhare16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Vidhaankhare16"><img src="https://img.shields.io/github/followers/Vidhaankhare16?label=Followers&style=flat-square"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhaan-khare-41657a27a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vidhankhare16@gmail.com)
+[![npm](https://img.shields.io/badge/@vidhaankhare%2Fvibeguard-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@vidhaankhare/vibeguard)
+[![GitHub](https://img.shields.io/github/followers/Vidhaankhare16?label=Follow&style=flat-square)](https://github.com/Vidhaankhare16)
 
 </div>
 
 ---
 
-### About
+BE Computer Engineering · Thapar Institute of Engineering & Technology · Expected 2027
 
-AI Engineer and Computer Engineering undergraduate at **Thapar Institute of Engineering & Technology**. Focused on moving artificial intelligence systems beyond prototypes into measurable, production-grade deployments.
+I specialize in moving AI from prototype to production — multi-agent orchestration, RAG pipelines, and security tooling for AI-generated code. My work has been deployed on GCP Cloud Run, published on npm, and recognized at national and international levels.
+
+---
+
+## Recognition
+
+| Award | Scale |
+| :--- | :--- |
+| **National Winner** — Smart India Hackathon 2025 | India's largest student hackathon · 10,000+ competing teams |
+| **International Winner** — Ulster University Agentic AI Hackathon | Multi-agent legal AI deployed on GCP; beat global university teams |
+| **National Finalist** — Google Cloud Agentic AI Day 2025 | Top 75 of 9,100+ teams · 30-hour agentic AI build sprint |
+| **Innovation Award** — Microsoft Learn AI Skills Challenge · Cyber AI Hackathon | Enterprise legal AI recognized for production-grade scalability |
+
+---
+
+## Engineering
+
+### [LegalEase](https://lexi-simplify-822987556610.us-central1.run.app/) — LLM Legal Intelligence Platform
+`Python` `Google ADK` `Vertex AI` `Gemini 2.5 Pro` `Flask` `Firestore` `Cloud Run`
+
+Legal review in India costs more per hour than most people earn per day. Built a **3-agent pipeline** (intake → Gemini 2.5 Pro analysis → risk scoring) deployed on GCP Cloud Run. Anyone can upload a contract and get a structured risk breakdown with severity-rated clauses — delivered over WhatsApp + web. **Cut manual legal review time by 70%.** Sensitive documents stored in end-to-end encrypted Firestore.
+
+---
+
+### [Developer Identity Engine](https://developer-identity-frontend-822987556610.us-central1.run.app/) — Multi-Agent GitHub Profiler
+`Python` `FastAPI` `Gemini` `Next.js` `TypeScript` `GCP Cloud Run`
+
+**5 async AI agents** — code quality, collaboration, growth arc, pattern fingerprinting, synthesis — run in parallel via `asyncio.gather` against real source files, commit history, and PR data. Produces archetype classification and an 18-month growth arc in **~30 seconds**. Role Fit mode takes a job description alongside a GitHub URL and returns a scored hire/no-hire verdict with specific code evidence and tailored interview questions. Results stream live via Server-Sent Events.
+
+---
+
+### [VibeGuard](https://website-vidhaan-khares-projects.vercel.app) — Security Audit CLI for AI-Generated Code
+`Node.js` `TypeScript` · `npx @vidhaankhare/vibeguard scan .`
+
+Most AI-generated apps ship with zero security review. Built a CLI scanner that audits any codebase in one command across **10 layers**: prompt injection, slopsquatting, mass assignment, BOLA/IDOR via cross-file taint analysis, live credential verification against full git history, and supply-chain threats generic tools miss. Returns a **0–100 security score** with severity-rated findings, exact vulnerable code paths, and copy-paste fixes exportable as JSON/Markdown. Published on npm — no setup, one command from install to full report.
+
+---
+
+## Experience
+
+**AI Engineering Intern — Humble Coders** *(May 2025 – July 2025, Remote)*
+- Built end-to-end LangChain agent workflows with RAG over a fashion retail product catalog and return policy knowledge base; shipped FastAPI + React stack on GCP end-to-end.
+- Delivered an **MCP server** integrating live university timetables, faculty schedules, and enrollment slot APIs into agent context; extended the pattern to expose legal document analysis tools (risk scoring, clause extraction, contract Q&A) as callable agent tools.
+
+**Open-Source Contributor** — PyTorch · torchvision (R) · spinebil
+- Extended [torchvision (R)](https://github.com/mlverse/torchvision) with image transform pipelines bridging PyTorch CV operations to the R ecosystem.
+- Contributed statistical validation routines to [spinebil](https://github.com/uschiLaa/spinebil) for projection pursuit diagnostics.
+
+---
+
+## Stack
+
+```
+Languages     Python  TypeScript  JavaScript  C++  SQL
+AI / ML       LLMs · Multi-Agent Systems · RAG · LangChain · LangGraph
+              Google ADK · Gemini · MCP · Vector Databases · LLM Evaluation
+Cloud         GCP (Vertex AI, Cloud Run) · AWS · Docker · Firebase
+Backend       FastAPI · Node.js · Flask · REST · WebSockets
+Frontend      React · Next.js · Tailwind CSS
+```
+
+---
+
+## Beyond Engineering
+
+**Vice-President — SUR-TIET Music Society** *(Dec 2025 – Present)*
+Selected from 1,500+ applicants. Leading 20+ members across 15+ events; drove 40%+ growth in community participation.
+
+**Guitarist** — 8+ years · Trinity College London certified · Alaap Competition 2025 Winner
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-18181B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Large_Language_Models-18181B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrieval_Augmented_Generation-18181B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Security_&_Evaluation-18181B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud--Native_AI-18181B?style=flat-square&logoColor=white"/>
-</div>
 
----
-
-### Milestones
-
-| Competitive & Hackathons | Extracurricular & Music |
-| :--- | :--- |
-| **Smart India Hackathon 2025** — National Winner | **SUR-TIET Music Society** — Vice-President |
-| **Ulster Agentic AI Hackathon** — International Winner | **Trinity College London** — Guitar Certifications |
-| **Google Cloud Agentic AI Day** — National Finalist | **Alaap Competition 2025** — Winner |
-| **Microsoft Learn AI Challenge** — Innovation Award | **8+ Years** — Active Guitarist |
-
----
-
-### Engineering & Open Source
-
-| System | Description |
-| :--- | :--- |
-| **LegalEase** | Multi-agent legal intelligence platform for contract analysis and risk scoring. |
-| **KisanSetu** | AI-powered infrastructure platform built for Farmer Producer Organizations. |
-| **Developer Identity Engine** | GitHub intelligence system evaluating engineering patterns and role fit. |
-| **VibeGuard** | Security auditing CLI targeting prompt injection and supply-chain risks. |
-| **Open Source** | Contributions across PyTorch, R, and the Catroid ecosystem (MQTT integration). |
-
----
-
-### Technologies
-
-**Languages & Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,mysql,java"/>
-
-**AI, Machine Learning & Frameworks**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-<br>
-<img src="https://img.shields.io/badge/LangChain-18181B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-18181B?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model_Context_Protocol-6366F1?style=flat-square&logoColor=white"/>
-
-**Cloud, Backend & Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=gcp,docker,nodejs,fastapi,firebase,flask,react,nextjs,tailwind"/>
-
----
-
-### GitHub Activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vidhaankhare16&show_icons=true&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidhaankhare16&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=20,12,6"/>
