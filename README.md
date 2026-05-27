@@ -123,11 +123,3 @@ Most AI-generated apps ship with zero security review. Built a CLI scanner that 
 
 </div>
 
----
-
-## Beyond Engineering
-
-**Vice-President — SUR-TIET Music Society** *(Dec 2025 – Present)*
-Selected from 1,500+ applicants. Leading 20+ members across 15+ events; drove 40%+ growth in community participation.
-
-**Guitarist** — 8+ years · Trinity College London certified · Alaap Competition 2025 Winner
