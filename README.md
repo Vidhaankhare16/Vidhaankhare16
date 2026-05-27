@@ -13,7 +13,7 @@
 
 ---
 
-BE Computer Engineering · Thapar Institute of Engineering & Technology · Expected 2027
+B.E. Electrical and Computer Engineering · Thapar Institute of Engineering & Technology · Expected 2027
 
 I specialize in moving AI from prototype to production — multi-agent orchestration, RAG pipelines, and security tooling for AI-generated code. My work has been deployed on GCP Cloud Run, published on npm, and recognized at national and international levels.
 
