@@ -4,11 +4,13 @@
 
 **AI Engineer** · Building multi-agent systems that ship to production
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhaan-khare-41657a27a/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vidhankhare16@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@vidhaankhare-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidhaankhare)
-[![GitHub](https://img.shields.io/github/followers/Vidhaankhare16?label=Follow&style=flat-square)](https://github.com/Vidhaankhare16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhaan-khare-41657a27a/)
 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhankhare16@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/@vidhaankhare-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidhaankhare)
+
+[![GitHub](https://img.shields.io/github/followers/Vidhaankhare16?label=Follow&style=for-the-badge)](https://github.com/Vidhaankhare16)
 </div>
 
 ---
