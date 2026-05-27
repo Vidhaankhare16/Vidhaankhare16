@@ -30,7 +30,7 @@ I specialize in moving AI from prototype to production — multi-agent orchestra
 
 ---
 
-## Engineering
+## Few of my projects-
 
 ### [LegalEase](https://lexi-simplify-822987556610.us-central1.run.app/) — LLM Legal Intelligence Platform
 
@@ -64,18 +64,6 @@ Legal review in India costs more per hour than most people earn per day. Built a
 `npx @vidhaankhare/vibeguard scan .`
 
 Most AI-generated apps ship with zero security review. Built a CLI scanner that audits any codebase in one command across **10 layers**: prompt injection, slopsquatting, mass assignment, BOLA/IDOR via cross-file taint analysis, live credential verification against full git history, and supply-chain threats generic tools miss. Returns a **0–100 security score** with severity-rated findings, exact vulnerable code paths, and copy-paste fixes exportable as JSON/Markdown. No setup — one command from install to full report.
-
----
-
-## Experience
-
-**AI Engineering Intern — Humble Coders** *(May 2025 – July 2025, Remote)*
-- Built end-to-end LangChain agent workflows with RAG over a fashion retail product catalog and return policy knowledge base; shipped FastAPI + React stack on GCP end-to-end.
-- Delivered an **MCP server** integrating live university timetables, faculty schedules, and enrollment slot APIs into agent context; extended the pattern to expose legal document analysis tools (risk scoring, clause extraction, contract Q&A) as callable agent tools.
-
-**Open-Source Contributor** — PyTorch · torchvision (R) · spinebil
-- Extended [torchvision (R)](https://github.com/mlverse/torchvision) with image transform pipelines bridging PyTorch CV operations to the R ecosystem.
-- Contributed statistical validation routines to [spinebil](https://github.com/uschiLaa/spinebil) for projection pursuit diagnostics.
 
 ---
 
