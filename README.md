@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhaan-khare-41657a27a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vidhankhare16@gmail.com)
-[![npm](https://img.shields.io/badge/@vidhaankhare%2Fvibeguard-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@vidhaankhare/vibeguard)
+[![Instagram](https://img.shields.io/badge/Instagram-@vidhaankhare-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vidhaankhare)
 [![GitHub](https://img.shields.io/github/followers/Vidhaankhare16?label=Follow&style=flat-square)](https://github.com/Vidhaankhare16)
 
 </div>
