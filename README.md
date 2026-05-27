@@ -26,7 +26,7 @@ I specialize in moving AI from prototype to production — multi-agent orchestra
 | **National Winner** — Smart India Hackathon 2025 | India's largest student hackathon · 10,000+ competing teams |
 | **International Winner** — Ulster University Agentic AI Hackathon | Multi-agent legal AI on GCP · beat global university teams |
 | **National Finalist** — Google Cloud Agentic AI Day 2025 | Top 75 of 9,100+ teams · 30-hour agentic AI build sprint |
-| **Innovation Award** — Cybersecurity AI Hackathon - University of Derby
+| **Innovation Award** — Cybersecurity AI Hackathon - University of Derby | Out of 200+ global teams |
 
 ---
 
